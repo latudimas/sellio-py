@@ -1,4 +1,4 @@
-import fasthtml.common as fh
+from fasthtml import common as fh
 
 app, rt = fh.fast_app()
 

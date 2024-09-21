@@ -33,3 +33,6 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+#database exception
+data/prod/
